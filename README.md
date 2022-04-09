@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axdelacrox, i'm an accountant with passion for tech!
 - 👀 My main interest here is learning new programming languages
-- 🌱 I’m currently learning phyton (my next step will learn R)
+- 🌱 I’m currently learning phyton (my next step will be learning R)
 - 📫 You can reach me at this adress adamo.calabrese@live.it
 
 <!---
